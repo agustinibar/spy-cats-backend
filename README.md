@@ -29,8 +29,6 @@ python -m uvicorn app.main:app --reload
 
 ## 📮 API Endpoints
 
-See full Postman Collection: [SpyCats.postman_collection.json](https://www.postman.com/your-export-link)
+See full Postman Collection: [SpyCats.postman_collection.json](https://www.postman.com/mission-cosmologist-44262689/my-workspace/collection/aix2m2w/spycats?action=share&creator=46201972)
 
-## 📫 Postman Collection
-Descargá y probá los endpoints con esta colección:
-👉 [SpyCats.postman_collection.json](./postman/SpyCats.postman_collection.json)
+
